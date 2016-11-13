@@ -1,0 +1,9 @@
+[submodule "SmartPakku-Hardware"]
+	path = SmartPakku-Hardware
+	url = https://github.com/resolutedreamer/SmartPakku-Hardware
+[submodule "SmartPakku-App"]
+	path = SmartPakku-App
+	url = https://github.com/resolutedreamer/SmartPakku-App
+[submodule "SmartPakku-Remote"]
+	path = SmartPakku-Remote
+	url = https://github.com/resolutedreamer/SmartPakku-Remote
